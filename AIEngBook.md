@@ -25,7 +25,7 @@ xx
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
     <div style="flex: 1;">
-        <img src="/Architecture-and-DevOps-for-AI-Systems/assets/img/authors/LenBass.jpeg" alt="Len Bass" style="width: 150px; height: auto; border-radius: 80%;">
+        <img src="/Architecture-and-DevOps-for-AI-Systems/assets/img/authors/LenBass.jpeg" alt="Len Bass" style="width: 150px; height: auto;">
     </div>
     <div style="flex: 3; padding-left: 20px;">
         <h4>Len Bass</h4>
