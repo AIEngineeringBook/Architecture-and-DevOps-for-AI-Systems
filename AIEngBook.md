@@ -19,12 +19,12 @@ subtitle: Len Bass
 </div> -->
 <div style="overflow: hidden;">
     <img src="/Architecture-and-DevOps-for-AI-Systems/assets/img/book.png" alt="AI Engineering Book IMG" style="float: right; margin-left: 30px; width: 300px; height: auto;">
-    <p>This book delves into the comprehensive integration of architecture and DevOps practices tailored specifically for the development and maintenance of AI systems. It covers essential strategies and tools to enhance the efficiency and effectiveness of AI system implementation, ensuring robust, scalable, and maintainable solutions.</p>
+    This book delves into the comprehensive integration of architecture and DevOps practices tailored specifically for the development and maintenance of AI systems. It covers essential strategies and tools to enhance the efficiency and effectiveness of AI system implementation, ensuring robust, scalable, and maintainable solutions.
     <p>The text further explores the challenges and solutions associated with AI projects, including case studies and practical insights from industry experts. This resource is invaluable for professionals and researchers seeking to deepen their understanding of architectural and operational considerations in AI engineering.</p>
 </div>
 
 
-<h2 style="margin-bottom: 10px;">Authors</h2>
+<h2 style="margin-bottom: 30px;">Authors</h2>
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
     <div style="flex: 1;">
