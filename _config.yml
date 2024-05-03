@@ -6,7 +6,7 @@
 # --- Required options --- #
 
 # Name of website
-# title: AI Engineering
+title: AI Engineering Book
 # Driving the engineering for AI systems in a responsible and safe way.
 
 # Your name to show in the footer
@@ -16,8 +16,8 @@
 
 navbar-links:
   # Call for Papers: "call"
-  # AI Engineering Book: "Companion-to-Book"
-  Teaching Materials: 
+  Book Introduction: "Introduction"
+  Teaching Materials: []
   Related Events:
     - RAIE'24: "https://conf.researchr.org/home/icse-2024/raie-2024"
     - SE4RAI'22: "https://conf.researchr.org/home/icse-2022/se4rai-2022"
