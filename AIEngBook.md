@@ -10,18 +10,22 @@ subtitle: Len Bass
 
 ***Len Bass, Qinghua Lu, Ingo Weber, Liming Zhu***
 
-<!-- ![AI Engineering Book IMG](/assets/img/book.png) -->
-<div style="text-align: left;">
-    <img src="/Architecture-and-DevOps-for-AI-Systems/assets/img/book.png" alt="AI Engineering Book IMG" width="300" height="auto">
-</div>
-
 
 ### Introduction
 
-xx
+<!-- ![AI Engineering Book IMG](/assets/img/book.png) -->
+<!-- <div style="text-align: left;">
+    <img src="/Architecture-and-DevOps-for-AI-Systems/assets/img/book.png" alt="AI Engineering Book IMG" width="300" height="auto">
+</div> -->
+<div style="overflow: hidden;">
+    <img src="/Architecture-and-DevOps-for-AI-Systems/assets/img/book.png" alt="AI Engineering Book IMG" style="float: left; margin-right: 20px; width: 300px; height: auto;">
+    <p>This book delves into the comprehensive integration of architecture and DevOps practices tailored specifically for the development and maintenance of AI systems. It covers essential strategies and tools to enhance the efficiency and effectiveness of AI system implementation, ensuring robust, scalable, and maintainable solutions.</p>
+    <p>The text further explores the challenges and solutions associated with AI projects, including case studies and practical insights from industry experts. This resource is invaluable for professionals and researchers seeking to deepen their understanding of architectural and operational considerations in AI engineering.</p>
+</div>
 
 
 ### Authors
+<br>
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
     <div style="flex: 1;">
