@@ -25,14 +25,14 @@ xx
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
     <div style="flex: 1;">
-        <img src="/path/to/jane.jpg" alt="Jane Doe" style="width: 150px; height: auto; border-radius: 50%;">
+        <img src="/Architecture-and-DevOps-for-AI-Systems/assets/img/authors/LenBass" alt="Len Bass" style="width: 150px; height: auto; border-radius: 50%;">
     </div>
     <div style="flex: 3; padding-left: 20px;">
-        <h2>Jane Doe</h2>
-        <p><strong>Position:</strong> Senior AI Engineer</p>
-        <p><strong>Bio:</strong> Jane Doe has over 10 years of experience in AI engineering, specializing in machine learning and deep learning. She has contributed to numerous projects that have significantly advanced the field of artificial intelligence.</p>
-        <p><strong>Interests:</strong> Machine Learning, Deep Learning, Data Science</p>
-        <p><strong>Contact:</strong> <a href="mailto:jane.doe@example.com">Email Jane</a></p>
+        <h4>Jane Doe</h4>
+        <!-- <p><strong>Position:</strong> Senior AI Engineer</p> -->
+        <p><strong>Len Bass</strong> is a renowned software engineer with extensive experience in the development of software architecture and its applications to AI systems. Known for his seminal work on software architecture practices, Len has co-authored several influential books that are widely used in both academia and industry.</p>
+        <!-- <p><strong>Interests:</strong> Machine Learning, Deep Learning, Data Science</p>
+        <p><strong>Contact:</strong> <a href="mailto:jane.doe@example.com">Email Jane</a></p> -->
     </div>
 </div>
 
