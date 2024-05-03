@@ -25,12 +25,12 @@ xx
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
     <div style="flex: 1;">
-        <img src="/Architecture-and-DevOps-for-AI-Systems/assets/img/authors/LenBass.jpeg" alt="Len Bass" style="width: 150px; height: auto; border-radius: 50%;">
+        <img src="/Architecture-and-DevOps-for-AI-Systems/assets/img/authors/LenBass.jpeg" alt="Len Bass" style="width: 150px; height: auto; border-radius: 80%;">
     </div>
     <div style="flex: 3; padding-left: 20px;">
         <h4>Len Bass</h4>
         <!-- <p><strong>Position:</strong> Senior AI Engineer</p> -->
-        Len Bass is a renowned software engineer with extensive experience in the development of software architecture and its applications to AI systems. Known for his seminal work on software architecture practices, Len has co-authored several influential books that are widely used in both academia and industry.</p>
+        Len Bass is a renowned software engineer with extensive experience in the development of software architecture and its applications to AI systems. Known for his seminal work on software architecture practices, Len has co-authored several influential books that are widely used in both academia and industry.
         <!-- <p><strong>Interests:</strong> Machine Learning, Deep Learning, Data Science</p>
         <p><strong>Contact:</strong> <a href="mailto:jane.doe@example.com">Email Jane</a></p> -->
     </div>
