@@ -25,7 +25,6 @@ subtitle: Len Bass
 
 
 <h2>Authors</h2>
-<br>
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
     <div style="flex: 1;">
