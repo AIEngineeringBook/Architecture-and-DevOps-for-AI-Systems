@@ -10,7 +10,7 @@ subtitle: Len Bass
 
 ***Len Bass, Qinghua Lu, Ingo Weber, Liming Zhu***
 
-![AI Engineering Book IMG](/assets/images/book.png)
+![AI Engineering Book IMG](/assets/img/book.png)
 
 ### Introduction
 
