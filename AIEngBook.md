@@ -1,6 +1,7 @@
 ---
 layout: page
 title: AI Engineering: Arhictecture and DevOps for AI Systems
+subtitle: Len Bass
 ---
 
 <!-- <p><img src="/img/pierrebourque.jpg" width="200" /><a href="https://profs.etsmtl.ca/pbourque">Pierre Bourque</a> - ing., Ph.D.</p> -->
