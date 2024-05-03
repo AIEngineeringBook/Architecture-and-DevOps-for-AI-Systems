@@ -59,7 +59,14 @@ xx
     </div>
 </div>
 
-- [Apostol Vassilev](https://www.nist.gov/people/apostol-vassilev), NIST, USA, <apostol.vassilev@nist.gov>
-- [Foutse Khomh](https://www.polymtl.ca/expertises/en/khomh-foutse), Polytechnique Montréal, Canada, <foutse.khomh@polymtl.ca>
-- [Maximilian Poretschkin](https://de.linkedin.com/in/maximilian-poretschkin-00137a161), Fraunhofer IAIS, Germany, <maximilian.poretschkin@iais.fraunhofer.de>
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+    <div style="flex: 1;">
+        <img src="/Architecture-and-DevOps-for-AI-Systems/assets/img/authors/LimingZhu.png" alt="Liming Zhu" style="width: 150px; height: auto;">
+    </div>
+    <div style="flex: 3; padding-left: 20px;">
+        <h4>Liming Zhu</h4>
+        <!-- <p><strong>Position:</strong> Senior AI Engineer</p> -->
+         Liming Zhu is a Research Director at CSIRO’s Data61, the AI/digital arm of Australia’s national science agency, and a conjoint professor at UNSW. He contributes to the OECD.AI’s AI Risks and Accountability, the Responsible AI at Scale think tank at Australia’s National AI Centre, ISO AI standards committees, and Australia’s AI safety standard. His research division innovates in AI engineering, responsible/safe AI, blockchain, quantum software, privacy, and cybersecurity, and hosted Australia’s Consumer Data Right/Open Banking standards setting. Dr Zhu has authored over 300 papers and is a regular keynote speaker. He delivered the keynote “Software Engineering as the Linchpin of Responsible AI” at the International Conference on Software Engineering.
+    </div>
+</div>
 
