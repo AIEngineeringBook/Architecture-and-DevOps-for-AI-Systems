@@ -6,20 +6,22 @@
 # --- Required options --- #
 
 # Name of website
-title: Responsible AI Engineering
+title: AI Engineering
+Driving the engineering for AI systems in a responsible and safe way.
 
 # Your name to show in the footer
-author: RAIE Organization Committee
+# author: RAIE Organization Committee
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
   # Call for Papers: "call"
-  RAIE'24: "RAIEWorkshop24"
-  TAI SI: "https://raiengineering.github.io/RAIE/RAIESI/"
+  AI Engineering Book: "AIEngBook"
   Past series:
+    - RAIE'24: "https://conf.researchr.org/home/icse-2024/raie-2024"
     - SE4RAI'22: "https://conf.researchr.org/home/icse-2022/se4rai-2022"
     - Computer-SI-SE4RAI: "https://www.computer.org/digital-library/magazines/co/call-for-papers-special-issue-on-software-engineering-for-responsible-ai"
+    - TAI SI: "https://raiengineering.github.io/RAIE/RAIESI/"
   # Contact: "mailto:qinghua.lu@data61.csiro.au"
 
 # --- Logo --- #
