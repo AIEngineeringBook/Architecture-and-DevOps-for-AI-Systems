@@ -11,7 +11,7 @@ subtitle: Len Bass
 ***Len Bass, Qinghua Lu, Ingo Weber, Liming Zhu***
 
 
-<h2>Introduction</h2>
+<h2 style="margin-bottom: 25px;">Introduction</h2>
 
 <!-- ![AI Engineering Book IMG](/assets/img/book.png) -->
 <!-- <div style="text-align: left;">
@@ -24,7 +24,7 @@ subtitle: Len Bass
 </div>
 
 
-<h2 style="margin-bottom: 30px;">Authors</h2>
+<h2 style="margin-bottom: 25px;">Authors</h2>
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
     <div style="flex: 1;">
