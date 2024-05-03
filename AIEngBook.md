@@ -12,7 +12,7 @@ subtitle: Len Bass
 
 <!-- ![AI Engineering Book IMG](/assets/img/book.png) -->
 <div style="text-align: center;">
-    <img src="/assets/img/book.png" alt="AI Engineering Book IMG" width="300" height="auto">
+    <img src="/Architecture-and-DevOps-for-AI-Systems/tree/main/assets/img/book.png" alt="AI Engineering Book IMG" width="300" height="auto">
 </div>
 
 
