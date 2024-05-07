@@ -1,6 +1,6 @@
 ---
 layout: page
-title: AI Engineering
+title:
 ---
 
 <!-- <p><img src="/img/pierrebourque.jpg" width="200" /><a href="https://profs.etsmtl.ca/pbourque">Pierre Bourque</a> - ing., Ph.D.</p> -->
