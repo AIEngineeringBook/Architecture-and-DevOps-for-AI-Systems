@@ -10,7 +10,7 @@ title: Introduction
 ***Len Bass, Qinghua Lu, Ingo Weber, Liming Zhu***
 
 
-<h2 style="margin-bottom: 10px;">Introduction</h2>
+<h2 style="margin-bottom: 5px;">Introduction</h2>
 
 <!-- ![AI Engineering Book IMG](/assets/img/book.png) -->
 <!-- <div style="text-align: left;">
