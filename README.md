@@ -1,12 +1,12 @@
 # Companion Website for the Book "AI Engineering: Architecture and DevOps for AI Systems"
 
-Through this repository, we provide a [website](https://aiengineeringx.github.io/Architecture-and-DevOps-for-AI-Systems/Companion-to-Book/) and the teaching materials accompanying the book:
+Through this repository, we provide a [website](https://aiengineeringx.github.io/Architecture-and-DevOps-for-AI-Systems/Companion-to-Book/) and other materials accompanying the book:
 
-* Len Bass, Qinghua Lu, Ingo Weber, and Liming Zhu. AAI Engineering: Architecture and DevOps for AI Systems.
+* Len Bass, Qinghua Lu, Ingo Weber, and Liming Zhu. AI Engineering: Architecture and DevOps for AI Systems.
 
 ## Website
 
-The website is hosted as a GitHub page, and available [here](https://aiengineeringx.github.io/Architecture-and-DevOps-for-AI-Systems/Companion-to-Book/).
+The website is hosted as a GitHub page, and available [here](https://aiengineeringbook.github.io/Architecture-and-DevOps-for-AI-Systems/Companion-to-Book/).
 
 
 ## Materials
