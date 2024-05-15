@@ -75,7 +75,7 @@ title: AI Engineering Book
 # Select which social network share links to show in posts
 share-links-active:
   twitter: true
-  facebook: false
+  facebook: true
   linkedin: true
   vk: false
 
