@@ -14,10 +14,10 @@ title: AI Engineering Book
 
 # --- List of links in the navigation bar --- #
 
-navbar-links:
-  # Call for Papers: "call"
-  Book Introduction: "Introduction"
-  Teaching Materials: []
+# navbar-links:
+#   # Call for Papers: "call"
+#   Book Introduction: "Introduction"
+#   Teaching Materials: []
   # Related Events:
   #   - RAIE'24: "https://conf.researchr.org/home/icse-2024/raie-2024"
   #   - SE4RAI'22: "https://conf.researchr.org/home/icse-2022/se4rai-2022"
